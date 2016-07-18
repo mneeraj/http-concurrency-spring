@@ -1,6 +1,6 @@
 # http-concurrency-spring
 
-Example code that demonstrates the use of HTTP Conditional Updates for handling concurrent requests using Spring Web MV Cas mentioned @ http://relishcode.com/spring-rest-for-http-conditional-updates
+Example code that demonstrates the use of HTTP Conditional Updates for handling concurrent requests using Spring Web MVC as mentioned @ http://relishcode.com/spring-rest-for-http-conditional-updates
 
 #1. Pre-requisites
 
