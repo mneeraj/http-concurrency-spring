@@ -14,6 +14,6 @@ Tomcat 8 (can be downloaded via Maven)
 
 mvn clean package
 
-#3. Deploy the using Maven
+#3. Deploy the code using Maven
 
 mvn tomcat7:run
