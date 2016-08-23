@@ -1,4 +1,4 @@
-# http-concurrency-spring
+# XSS Prevention
 
 Example code that demonstrates the use of HTTP Conditional Updates for handling concurrent requests using Spring Web MVC as mentioned @ http://relishcode.com/spring-rest-for-http-conditional-updates
 
